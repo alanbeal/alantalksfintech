@@ -1,7 +1,7 @@
 {
     "schedule": "daily", // daily|weekly|monthly
     "ignoredFiles": [
-    	"*.jpg",                   // by extension
+    	// "*.jpg",                   // by extension
     	"image1.png",              // by filename
     	"public/special_images/*", // by folderpath
     ],
